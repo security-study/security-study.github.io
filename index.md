@@ -299,7 +299,7 @@ void DoOtherWork()
 	    <td>CWE-94: Improper Control of Generation of Code ('Code Injection')</td>
 	</tr>
   <tr>
-	    <td ><p><b>Role-Based Security</p></b></td>
+	    <td ><p><b>Role-Based Security</b></p></td>
 	    <td>
 	    <p>Roles are often used in financial or business applications to enforce policy. For example, an application might impose limits on the size of the transaction 
 		    being processed depending on whether the user making the request is a member of a specified role. Clerks might have authorization to process 
