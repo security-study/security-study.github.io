@@ -59,7 +59,6 @@ Mapping Microsoft C# Security Recommendations to CWE
 	    <td>Do not store sensitive information in XML or other configuration files.</td>
 	    <td>CWE-538: Insertion of Sensitive Information into Externally-Accessible File or Directory</td>
 	</tr>
-	<tr >
 </table>
 
 
