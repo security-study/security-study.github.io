@@ -1,6 +1,6 @@
 ## Do Developers Really Understand C\# Secure Coding Guidelines? A Large-Scale Study on Stack Overflow
 
-Mapping Microsoft C# Security Recommendations to CWE
+### Mapping Microsoft C# Common Security Coding Guidelines to CWE
 
 
 
@@ -62,7 +62,10 @@ Mapping Microsoft C# Security Recommendations to CWE
 </table>
 
 
+---
 
+
+### Mapping Microsoft C# System Security Coding Guidelines to CWE
 
 <table>
 	<tr>
