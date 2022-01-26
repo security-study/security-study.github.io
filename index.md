@@ -71,6 +71,7 @@ Mapping Microsoft C# Security Recommendations to CWE
 	    <th>Description</th> 
 	    <th>CWE</th>  
 	</tr >
+	<tr>
 	    <td rowspan="10">MSS</td>
 	    <td><p><b>Securing resource access</b></p></td>
 	    <td>
