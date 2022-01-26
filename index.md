@@ -193,7 +193,7 @@ Mapping Microsoft C# Security Recommendations to CWE
 		    <p>Some important considerations involving user data include the following:</p>
 		    <ul>
 		    <li><p>Any user data in a server response runs in the context of the server's site on the client. If your Web server takes user data and inserts it 
-			    into the returned Web page, it might, for example, include a <strong><script></strong> tag and run as if from the server.</p></li>
+			    into the returned Web page, it might, for example, include a script tag and run as if from the server.</p></li>
 		    <li><p>Remember that the client can request any URL.</p></li>
 		    <li><p>Consider tricky or invalid paths:</p></li>
 			    <ul>
